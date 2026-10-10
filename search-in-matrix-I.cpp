@@ -1,3 +1,7 @@
+#include<iostream>
+#include<vector>
+using namespace std;
+
 class Solution {
 public:
     bool searchInRow(vector<vector<int>>& mat, int target, int row) {
